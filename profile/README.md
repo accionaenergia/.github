@@ -6,7 +6,7 @@ Hay platos que alimentan, y luego está la tortilla de patatas: embajadora espa�
 
 Se sirve como pincho, tapa o bocadillo, y puede salir más cuajada o más jugosa, según gustos y costumbres. La pausa que empieza con «solo un trocito» suele acabar preguntando si queda más.
 
-![alt text](image.png)
+![alt text](https://www.diariodesevilla.es/andalucia/Situan-Andalucia-posible-tortilla-patatas_0_1882912154.html)
 
 ## Villanueva de la Serena, plaza mayor de la leyenda
 
