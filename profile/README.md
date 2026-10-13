@@ -1,4 +1,4 @@
-# ¡Viva la tortilla, y que se note en el plato!
+# ¡Viva la tortilla!
 
 ## Una bandera que también se sirve en pincho
 
@@ -6,7 +6,7 @@ Hay platos que alimentan, y luego está la tortilla de patatas: embajadora espa�
 
 Se sirve como pincho, tapa o bocadillo, y puede salir más cuajada o más jugosa, según gustos y costumbres. La pausa que empieza con «solo un trocito» suele acabar preguntando si queda más.
 
-![alt text](https://www.diariodesevilla.es/andalucia/Situan-Andalucia-posible-tortilla-patatas_0_1882912154.html)
+![alt text](https://static.grupojoly.com/clip/1441345a-b704-4e10-9e4e-834aa10ab10a_16-9-aspect-ratio_1600w_0.webp)
 
 ## Villanueva de la Serena, plaza mayor de la leyenda
 
@@ -26,4 +26,3 @@ Con cebolla. Fin.
 
 
 Fuente: [Tortilla de patatas, Wikipedia](https://es.wikipedia.org/wiki/Tortilla_de_patatas).
-
