@@ -28,7 +28,7 @@ Buscamos un flujo claro y predecible para que cualquiera pueda contribuir con co
 - **Commits descriptivos** — Mensajes claros que expliquen el *qué* y el *por qué*.
 - **CI primero** — Los cambios deben pasar los checks automáticos (build, tests, linters) antes de integrarse.
 - **Documentar sobre la marcha** — Si cambias el comportamiento, actualiza la documentación en el mismo PR.
-- **Consistencia** — Igual que una buena tortilla, el resultado debe cuajar por dentro: ni crudo ni pasado. Sobre lo de la cebolla hay PRs abiertas desde hace años; no las vamos a cerrar hoy.
+- **Consistencia** — Igual que una buena tortilla de Villanueva de la Serena, el resultado debe cuajar por dentro: ni crudo ni pasado. Sobre lo de la cebolla hay PRs abiertas desde hace años; no las vamos a cerrar hoy.
 
 Las convenciones específicas (naming de ramas, plantillas, estándares de arquitectura) se detallan en cada repositorio.
 
