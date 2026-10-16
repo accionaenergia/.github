@@ -28,7 +28,7 @@ Buscamos un flujo claro y predecible para que cualquiera pueda contribuir con co
 - **Commits descriptivos** — Mensajes claros que expliquen el *qué* y el *por qué*.
 - **CI primero** — Los cambios deben pasar los checks automáticos (build, tests, linters) antes de integrarse.
 - **Documentar sobre la marcha** — Si cambias el comportamiento, actualiza la documentación en el mismo PR.
-- **Consistencia** — Igual que una buena tortilla, el resultado debe cuajar por dentro: ni crudo ni pasado. Sobre lo de la cebolla hay PRs abiertas desde hace años; no las vamos a cerrar hoy.
+- **Consistencia** — Igual que una buena tortilla de Villanueva de la Serena, el resultado debe cuajar por dentro: ni crudo ni pasado. Sobre lo de la cebolla hay PRs abiertas desde hace años; no las vamos a cerrar hoy.
 
 Las convenciones específicas (naming de ramas, plantillas, estándares de arquitectura) se detallan en cada repositorio.
 
@@ -59,7 +59,7 @@ Allí encontrarás el modelo objetivo, los roles y el RACI, las decisiones de ar
 4. Haz tus cambios, acompañados de pruebas cuando aplique.
 5. Abre una Pull Request y solicita revisión.
 
-¿No sabes por dónde empezar? Abre una *issue* con tu duda o pregunta al equipo responsable del repositorio.
+¿No sabes por dónde empezar? Contacta con la Oficina de Arquitectura en [OfArquitecturaAE@acciona.com](mailto:OfArquitecturaAE@acciona.com).
 
 ---
 
@@ -74,8 +74,11 @@ Allí encontrarás el modelo objetivo, los roles y el RACI, las decisiones de ar
 
 ## Contacto y soporte
 
-- Usa las **issues** del repositorio correspondiente para reportar errores o proponer mejoras.
-- Para dudas transversales, contacta con el equipo de plataforma tecnológica.
+Para dudas, consultas o propuestas de mejora, contacta por correo con la oficina correspondiente:
+
+- **OficinaArquitecturaAE** — [OfArquitecturaAE@acciona.com](mailto:OfArquitecturaAE@acciona.com)
+- **OficinaIntegracionAE** — [OfIntegracionAE@acciona.com](mailto:OfIntegracionAE@acciona.com)
+- **OficinaDevOpsAE** — [OfDevOpsAE@acciona.com](mailto:OfDevOpsAE@acciona.com)
 
 ---
 
