@@ -79,4 +79,4 @@ Allí encontrarás el modelo objetivo, los roles y el RACI, las decisiones de ar
 
 ---
 
-<sub>Acciona Energía · Comprometidos con un modelo energético 100 % renovable. Y con que Extremadura, algún día, salga en el mapa del tiempo entera.</sub>
+<sub>Acciona Energía · Comprometidos con un modelo energético 100 % renovable. First commit from Villanueva de la Serena.</sub>
