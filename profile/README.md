@@ -59,7 +59,7 @@ Allí encontrarás el modelo objetivo, los roles y el RACI, las decisiones de ar
 4. Haz tus cambios, acompañados de pruebas cuando aplique.
 5. Abre una Pull Request y solicita revisión.
 
-¿No sabes por dónde empezar? Abre una *issue* con tu duda o pregunta al equipo responsable del repositorio.
+¿No sabes por dónde empezar? Contacta con la Oficina de Arquitectura en [OfArquitecturaAE@acciona.com](mailto:OfArquitecturaAE@acciona.com).
 
 ---
 
@@ -74,8 +74,11 @@ Allí encontrarás el modelo objetivo, los roles y el RACI, las decisiones de ar
 
 ## Contacto y soporte
 
-- Usa las **issues** del repositorio correspondiente para reportar errores o proponer mejoras.
-- Para dudas transversales, contacta con el equipo de plataforma tecnológica.
+Para dudas, consultas o propuestas de mejora, contacta por correo con la oficina correspondiente:
+
+- **OficinaArquitecturaAE** — [OfArquitecturaAE@acciona.com](mailto:OfArquitecturaAE@acciona.com)
+- **OficinaIntegracionAE** — [OfIntegracionAE@acciona.com](mailto:OfIntegracionAE@acciona.com)
+- **OficinaDevOpsAE** — [OfDevOpsAE@acciona.com](mailto:OfDevOpsAE@acciona.com)
 
 ---
 
